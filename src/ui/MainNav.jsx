@@ -3,7 +3,6 @@ import styled from "styled-components";
 import {
   HiOutlineCalendarDays,
   HiOutlineCog6Tooth,
-  HiOutlineHome,
   HiOutlineHomeModern,
   HiOutlineRectangleGroup,
   HiOutlineUsers,
