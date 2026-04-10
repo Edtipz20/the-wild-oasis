@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-Main project in Eduardo Tipoh's Ultimate React Course.
+Main project in Eduardo Tipoh's Ultimate React Course. This is my first react project.
 
 <!-- # React + Vite
 
